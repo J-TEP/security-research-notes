@@ -5,3 +5,4 @@ Targets, endpoints and sensitive data are omitted in line with each program's di
 
 ## Notes
 - [GraphQL Web Cache Deception & Access Control Testing](graphql-cache-deception-methodology.md)
+- [Travel/Loyalty API: IDOR, Mass Assignment, Injection & Access Control](travel-api-idor-sqli-methodology.md)
